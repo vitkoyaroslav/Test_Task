@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Material+Icons);
+
+body {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 5vw;
+  background: green;
+}
+#text{
+  display: block;
+  position: relative;
+  overflow: hidden;
+  color: white;
+  font-size: 48px;
+  text-transform: uppercase;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 200px;
+}
+* {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
